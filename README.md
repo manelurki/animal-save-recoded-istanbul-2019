@@ -1,5 +1,4 @@
 
-
 # Animal Save!
 
 Use your knowledge of media queries and absolute positioning to help these
